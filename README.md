@@ -1,13 +1,5 @@
 # 🏠 House Price Prediction using Machine Learning
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![Internship Project](https://img.shields.io/badge/Internship-Project-success)
-
-</p>
 
 ## 📌 Overview
 
