@@ -1,6 +1,5 @@
 # 🏠 House Price Prediction using Machine Learning
 
-
 ## 📌 Overview
 
 This project is an end-to-end **Machine Learning Regression** project that predicts residential house prices using a real-world **Kaggle House Prices** dataset. It demonstrates the complete machine learning workflow including data cleaning, exploratory data analysis (EDA), feature engineering, model training, evaluation, and final model selection.
